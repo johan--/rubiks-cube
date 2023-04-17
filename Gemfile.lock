@@ -12,7 +12,7 @@ GEM
       cane
     diff-lcs (1.2.5)
     parallel (0.7.1)
-    rake (10.3.2)
+    rake (13.0.6)
     rspec (3.1.0)
       rspec-core (~> 3.1.0)
       rspec-expectations (~> 3.1.0)
@@ -32,6 +32,6 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.7.2)
   cane-hashcheck (~> 1.2.0)
-  rake (~> 10.3.2)
+  rake (~> 13.0.6)
   rspec (~> 3.1.0)
   rubiks_cube!
